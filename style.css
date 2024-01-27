@@ -1,0 +1,18 @@
+
+
+* {
+    margin : 0;
+    padding: 0;
+    line-height: 1.5em;
+    box-sizing : border-box;
+}
+
+img {
+    aspect-ratio: 16/9;
+    width: clamp(100px, 80vh, 700px);
+    margin: 0 auto;
+}
+
+.image-wrapper {
+    margin: 0 25vw;
+}
